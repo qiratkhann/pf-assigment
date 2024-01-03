@@ -1,2 +1,2 @@
-# pf-assigment
+# pf-assigments
 programming fundamental assigment
